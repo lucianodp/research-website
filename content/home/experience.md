@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Data Engineer Intern"
+  company = "Wildlife Studios"
+  company_url = "https://wildlifestudios.com/en"
+  location = "São Paulo, Brazil"
+  date_start = "2017-04-15"
+  date_end = "2017-08-15"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+    * Designed and implemented a data pipeline for real-time processing, storage, and visualization of several metrics of interest, such as a count of app crashes, new installs, active online users, and others.
+    * Installed, configured, and benchmarked the company's first Spark cluster, enabling engineers to run data processing pipelines and train Machine Learning models over a cluster of machines.
+    * Analyzed the number of impressions, clicks, and installs of users across multiple games and AdNets, leading to an improvement in user targeting and an increase in the installs-to-impressions ratio.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "UC Berkeley"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "California, United States"
+  date_start = "2016-03-15"
+  date_end = "2016-07-15"
+  description = """
+    * Surveyed the State-of-the-Art in Neural Networks and Reinforcement Learning.
+    * Designed and trained an adaptive traffic lights controller, capable of adapting the distribution of green time over different lanes with varying vehicle throughput. The controller was trained using Reinforcement Learning techniques and Neural Networks.
+    * Our adaptive controller achieved a reduction of more than 25% on the average number of idle vehicles over fixed-time controllers.
+  """
 
 +++
