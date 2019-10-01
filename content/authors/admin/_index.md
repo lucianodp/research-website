@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Luciano Di Palma is a PhD student in artifial intelligence and data mining at Inria Saclay. His research interests include machine learning, active learning, and interactive data explorarion.
+Luciano Di Palma is a PhD student in artifial intelligence and data mining at the CEDAR team, in Inria Saclay. His research interests include machine learning, active learning, and interactive data explorarion.
