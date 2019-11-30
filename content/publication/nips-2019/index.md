@@ -1,8 +1,10 @@
 ---
 title: "AIDEme: An active learning based system for interactive exploration of large datasets"
 date: 2019-12-11
+publishDate: 2019-11-30T00:00:00.00000Z
 authors: ["Enhui Huang", "Luciano Di Palma", "Laurent Cetinsoy", "Yanlei Diao", "Anna Liu"]
 publication_types: ["3"]
+abstract: ""
 featured: false
 publication: "*Neural Information Processing Systems (NeurIPS)*"
 abstract: "
