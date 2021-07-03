@@ -22,20 +22,23 @@ bio: My research interests include Active Learning and Data Exploration.
 
 interests:
 - Machine Learning
-- Data Exploration
-- Deep Learning
+- Scalable Systems
+- Statistical Modeling
 
 education:
   courses:
+  - course: Ph.D. in Active Learning and Data Exploration
+    institution: Ecole Polytechnique and Inria Saclay
+    year: Sep 2017 - Aug 2021
   - course: Masters in Data Science
     institution: University Paris-Saclay
-    year: 2017
+    year: Sep 2016 - Aug 2017
   - course: Cycle Ingenieur Polytechnicien
     institution: Ecole Polytechnique
-    year: 2014-2016
+    year: Jan 2014 - Aug 2016
   - course: BSc in Physics
     institution: University of São Paulo
-    year: 2011-2013
+    year: Jan 2011- Dec 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -50,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?user=1MU4LZIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/lucisdp
+  link: https://github.com/lucianodp
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -67,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Luciano Di Palma is a PhD student in artifial intelligence and data mining at the CEDAR team, in Inria Saclay. His research interests include machine learning, active learning, and interactive data explorarion.
+Luciano Di Palma is a PhD student in artificial intelligence and data mining at the CEDAR team, in Inria Saclay. His main research interest is designing scalable intelligent analytics systems with strong theoretical performance guarantees and leveraging state-of-the-art machine learning and statistical techniques.
