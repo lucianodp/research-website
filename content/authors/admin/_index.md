@@ -29,16 +29,16 @@ education:
   courses:
   - course: Ph.D. in Active Learning and Data Exploration
     institution: Ecole Polytechnique and Inria Saclay
-    year: Sep 2017 - Aug 2021
-  - course: Masters in Data Science
-    institution: University Paris-Saclay
-    year: Sep 2016 - Aug 2017
-  - course: Cycle Ingenieur Polytechnicien
+    year: 2017–2021
+  - course: MSc in Data Science
+    institution: Paris-Saclay University
+    year: 2016–2017
+  - course: Cycle Ingénieur Polytechnicien
     institution: Ecole Polytechnique
-    year: Jan 2014 - Aug 2016
+    year: 2014–2016
   - course: BSc in Physics
     institution: University of São Paulo
-    year: Jan 2011- Dec 2013
+    year: 2011–2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
