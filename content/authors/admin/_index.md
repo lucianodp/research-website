@@ -18,7 +18,7 @@ organizations:
   url: "https://team.inria.fr/cedar"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Active Learning and Data Exploration.
+bio: Luciano Di Palma is a PhD student in Machine Learning and Data Management at CEDAR, a joint research team between École Polytechnique and Inria Saclay. His main research interest is designing scalable intelligent analytics systems with strong theoretical performance guarantees and leveraging state-of-the-art machine learning and statistical techniques.
 
 interests:
 - Machine Learning
@@ -30,13 +30,13 @@ education:
   - course: Ph.D. in Active Learning and Data Exploration
     institution: Ecole Polytechnique and Inria Saclay
     year: 2017–2021
-  - course: MSc in Data Science
-    institution: Paris-Saclay University
+  - course: M.Sc. in Data Science
+    institution: Université Paris-Saclay
     year: 2016–2017
   - course: Cycle Ingénieur Polytechnicien
-    institution: Ecole Polytechnique
+    institution: École Polytechnique
     year: 2014–2016
-  - course: BSc in Physics
+  - course: B.Sc. in Physics
     institution: University of São Paulo
     year: 2011–2013
 
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Luciano Di Palma is a PhD student in artificial intelligence and data mining at the CEDAR team, in Inria Saclay. His main research interest is designing scalable intelligent analytics systems with strong theoretical performance guarantees and leveraging state-of-the-art machine learning and statistical techniques.
+Luciano Di Palma is a PhD student in Machine Learning and Data Management at CEDAR, a joint research team between École Polytechnique and Inria Saclay. His main research interest is designing scalable intelligent analytics systems with strong theoretical performance guarantees and leveraging state-of-the-art machine learning and statistical techniques.
